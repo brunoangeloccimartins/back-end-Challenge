@@ -96,11 +96,11 @@ http://localhost:3000/api
 
 ## Acknowledgements
 
-Embarking on this project marked my inaugural journey with Nest.js, TypeORM, Redis, and Swagger. Each step presented a unique challenge, but it was an enriching experience that expanded my knowledge base. This endeavor revealed the vast expanse of learning that lies ahead, underscoring the continuous evolution of my skills.
+Embarking on this project marked my inaugural journey with Nest.js, TypeORM, Redis, and Swagger. Each step presented a unique challenge, but it was an enriching experience that expanded my know-how. This endeavor revealed the vast expanse of learning that lies ahead, underscoring the continuous evolution of my skills.
 
 Despite encountering hurdles along the way, I found joy in the process. Every obstacle became an opportunity to delve deeper into the intricacies of these technologies. Researching and uncovering solutions felt akin to embarking on a thrilling treasure hunt, each discovery bringing me closer to overcoming the hurdles.
 
-This project not only honed my technical abilities but also instilled a sense of excitement for future endeavors. It reaffirmed my passion for exploration and the pursuit of knowledge in the ever-evolving landscape of technology.
+This project not only honed my technical abilities but also inspired a sense of excitement for future endeavors. It reaffirmed my passion for exploration and the pursuit of knowledge in the ever-evolving landscape of technology.
 
 
 
@@ -108,7 +108,7 @@ This project not only honed my technical abilities but also instilled a sense of
 
 Hey there! 👋 I'm Bruno Angelocci Martins, a passionate and ambitious 23-year-old web developer on a relentless pursuit of excellence in the ever-evolving world of technology. With a year's worth of dedicated study in web development under my belt, I'm eager to make my mark in the industry.
 
-My journey into the world of web development began with a curiosity-driven exploration, and since then, I've been captivated by the endless possibilities that technology offers. Through hands-on experience and continuous learning, I've honed my skills in frontend and backend development, mastering languages and frameworks such as HTML, CSS, JavaScript, Node.js, and React.
+My journey into the world of web development began with curiosity-driven exploration, and since then, I've been captivated by the endless possibilities that technology offers. Through hands-on experience and continuous learning, I've honed my skills in frontend and backend development, mastering languages and frameworks such as HTML, CSS, JavaScript, Node.js, and React.
 
 I thrive in dynamic environments where creativity meets functionality, and I'm always on the lookout for opportunities to push boundaries and create impactful solutions. Whether it's building intuitive user interfaces or architecting robust backend systems, I approach every project with a blend of enthusiasm and meticulous attention to detail.
 
